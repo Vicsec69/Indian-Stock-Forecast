@@ -3,11 +3,9 @@ It uses a hybrid ensemble of statistical, machine learning, and deep learning mo
 
 The system helps answer:
 
-Will the stock go up or down?
-
-What is the expected price range?
-
-How confident is the prediction?
+*Will the stock go up or down?
+*What is the expected price range?
+*How confident is the prediction?
 
 🚀 Key Features
 
@@ -33,59 +31,41 @@ Each model compensates for the limitations of the others, improving overall robu
 
 🧩 System Architecture
 
-Data collection (historical stock prices)
-
-Data cleaning & preprocessing
-
-Feature engineering & time-series transformation
-
-Individual model training (SARIMA, XGBoost, LSTM)
-
-Model ensemble & weighted decision logic
-
-Forecast visualization & confidence interpretation
+*Data collection (historical stock prices)
+*Data cleaning & preprocessing
+*Feature engineering & time-series transformation
+*Individual model training (SARIMA, XGBoost, LSTM)
+*Model ensemble & weighted decision logic
+*Forecast visualization & confidence interpretation
 
 🛠️ Technologies Used
 
-Python
-
-NumPy & Pandas
-
-Scikit-learn
-
-TensorFlow / Keras
-
-Statsmodels (SARIMA)
-
-Matplotlib
-
-SQL (data handling & cleaning)
+*Python
+*NumPy & Pandas
+*Scikit-learn
+*TensorFlow / Keras
+*Statsmodels (SARIMA)
+*Matplotlib
+*SQL (data handling & cleaning)
 
 📊 Evaluation Metrics
 
-Directional Accuracy (Up/Down): ~65%
-
-Model confidence based on ensemble agreement
+*Directional Accuracy (Up/Down): ~65%
+*Model confidence based on ensemble agreement
 
 🎯 Use Cases
 
-Retail investors for trend analysis
-
-Data analytics learning project
-
-Financial time-series forecasting practice
-
-Demonstration of hybrid ML systems
+*Retail investors for trend analysis
+*Data analytics learning project
+*Financial time-series forecasting practice
+*Demonstration of hybrid ML systems
 
 📌 Project Highlights
 
-Combines statistical + ML + DL models
-
-Focus on interpretability, not black-box predictions
-
-Designed with real-world decision-making in mind
-
-Modular and extensible architecture
+* Combines statistical + ML + DL models
+* Focus on interpretability, not black-box predictions
+* Designed with real-world decision-making in mind
+* Modular and extensible architecture
 
 
 👨‍💻 Author
@@ -94,4 +74,4 @@ Shivam Kolhe
 B.Tech – Computer Science Engineering (AI & Analytics)
 📫 Email: shivamkolhe69@gmail.com
 
-🔗 LinkedIn | GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/shivam-kolhe-a448a1259/  | GitHub
