@@ -7,7 +7,7 @@ DATA_DIR = r"C:\Users\shiva\Indian Stock Forecast\data\raw"
 
 # Default stocks (used if user gives no input)
 DEFAULT_STOCK_LIST = [
-    "SYMPHONY"
+    "TCS"
 ]
 
 def normalize_symbol(symbol: str) -> str:
